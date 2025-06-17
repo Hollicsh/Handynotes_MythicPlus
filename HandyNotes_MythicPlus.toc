@@ -1,4 +1,4 @@
-## Interface: 110007
+## Interface: 110107
 ## Title: HandyNotes: MythicPlus
 ## Title-ruRU: HandyNotes: Подземелья М+
 ## Title-frFR: HandyNotes: MythicPlus
